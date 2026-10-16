@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Données (volumineuses et/ou confidentielles — ne pas versionner)
+data/raw/
+data/processed/
+data/outputs/
+
+# OS / éditeurs
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

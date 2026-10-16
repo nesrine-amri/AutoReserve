@@ -1,0 +1,18 @@
+# AutoReserve — dépendances Python
+# Gelées sur l'environnement de développement (Python 3.14)
+pandas==3.0.2
+numpy==2.4.4
+openpyxl==3.1.5
+pyarrow==25.0.1
+
+# Plateforme de restitution
+streamlit==1.65.0
+plotly==7.1.0
+
+# Notebook pedagogique
+nbformat==5.11.1
+nbconvert==7.17.1
+ipykernel==7.4.0
+
+# Tests
+pytest==9.1.1
